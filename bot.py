@@ -23,4 +23,4 @@ async def hi(ctx):
   
   
   
-bot.run(os.environ['NDUyNDIwNTE2NTU3MzU3MDY3.DibfMA.uH9-WaiAlvifnkn70HvCZae-FVk'])
+bot.run(os.environ['NDY2NDA0MTMxNzM3OTYwNDQ4.DibkbQ.Wqdw3ItJNZ5ZhkbI5KFGzDTKfr8'])
